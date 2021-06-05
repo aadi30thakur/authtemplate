@@ -8,7 +8,7 @@ it says the users to the database along with hashed passwords with SHA256 with c
 ---
  Installation 
  
-`npm i  auth-template`
+`npm i  authtemplate`
 
 ----
 
